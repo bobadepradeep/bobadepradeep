@@ -20,9 +20,9 @@
 ---
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
-- [Portfolio](https://your-portfolio-link.com)
-- 📧 Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/pradeepbobade/)
+- [Portfolio](#)
+- 📧 Email: pradeepbobade9@gmail.com
 
 ---
 
