@@ -1,82 +1,72 @@
-# ✨ Pradeep Bobade – Digital Analytics & Marketing Automation Expert
-👋 Hi! I’m Pradeep, a passionate Digital Analytics Specialist with hands-on experience in website/app tracking implementation, marketing automation, CRM analytics, and dashboard reporting. I bring data to life and help brands make better decisions using insights.
+# 👋 Hi, I'm Pradeep Bobade
+
+🚀 A Digital Marketing Analyst | Web Analytics Strategist | Martech Enthusiast  
+📊 Helping businesses connect data with outcomes — from **tracking** to **transformation**
 
 ---
 
-### 🔧 Tools & Technologies
-Analytics Platforms:
-Google Analytics 4 (GA4) • Kochava • Databricks • Adobe Analytics (Beginner)
+## 👨‍💻 About Me
 
-Tag Management & Implementation:
-Google Tag Manager (GTM) – Tags, Triggers, Variables, Custom Events, Custom Dimensions
+I'm a seasoned **Marketing Analyst** with 7+ years of cross-functional experience across **digital strategy, marketing automation, web analytics, and campaign performance optimization**. From building micro-sites for ASUS to crafting marketing measurement frameworks for Tata Shaktee, I bring a hybrid expertise in **tech + marketing + data**.
 
-Dashboarding & Reporting:
-Looker Studio • Power BI
+I specialize in:
 
-Marketing Automation:
-Salesforce Marketing Cloud (SFMC) – Email Studio, Automation Studio
-Pardot (Account Engagement) – Campaign & Journey Automation
-B2B Marketing Automation – Lifecycle & Nurture Campaigns, Email Performance Reporting
-
-Data Privacy & Consent Management:
-OneTrust
-
-Project Management & Workflow Tools:
-JIRA • Adobe Workfront
-
----
-### 📊 Key Capabilities
-GA4 Setup & Implementation
-
-Event tracking (view_item, add_to_cart, purchase, etc.)
-
-Custom definitions and funnel reports
-
-SKU-level reporting in Looker Studio
-
-GTM Expertise
-
-Advanced tag configuration
-
-Scroll, click, form, and conversion tracking
-
-GA4 Enhanced Ecommerce setup
-
-Dashboard Building
-
-Looker Studio product funnel dashboards
-
-CRM campaign performance dashboards (SFMC/Pardot + Databricks)
-
-Power BI visualizations from complex datasets
-
-CRM & Email Analytics
-
-Journey performance analysis (Lifecycle, Promo, Survey)
-
-Integration of SFMC/Pardot with Salesforce CRM
-
-Subscriber-level reporting via Databricks
-
-Marketing Attribution & Tracking
-
-Kochava SmartLinks, QR code setup
-
-UTM tracking & campaign tagging strategies
----
-
-### 📊 GitHub Stats
-
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobadepradeep&show_icons=true&theme=github_dark)
+- **Implementing scalable tracking strategies using GA4, GTM, and Adobe Analytics**
+- **Automating dashboards with Looker, Power BI, and Databricks**
+- **Orchestrating B2B campaigns using Pardot & SFMC**
+- **Driving decisions through clean, actionable data**
 
 ---
 
-### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/pradeepbobade/)
-- [Portfolio](#)
-- 📧 Email: pradeepbobade9@gmail.com
+## 💼 What I Bring to the Table
+
+### 🧠 Expertise In
+
+- **Web Analytics**: GA4 · Google Tag Manager · Adobe Analytics · Consent Mode v2 · OneTrust
+- **Tagging/Tracking**: Tealium IQ · Kochava · Meta Pixel · Custom JavaScript Tags
+- **BI & Reporting**: Looker Studio · Power BI · BigQuery · CRM Dashboards
+- **Marketing Automation**: Salesforce Marketing Cloud · Pardot · B2B Journeys
+- **Martech & Ops**: JIRA · Adobe Workfront · DataBricks · Campaign Mapping · UTM Strategy
+- **Development Skills**: HTML · CSS · JavaScript · PHP · Python · MySQL · AJAX
 
 ---
 
-### ⚡ Fun Fact
-I love solving coding puzzles and contributing to open source!
+## 📂 Highlight Projects
+
+- 📈 **GA4 Migration & Funnel Tracking** for enterprise-level ecommerce
+- 🧩 **Smartlink + QR Attribution** setup using Kochava
+- 📊 **Salesforce CRM + Power BI Dashboards** (Email, Journeys, Lifecycle)
+- 🎯 **Strategy & Tag Implementation** for Tata Shaktee via Adobe Analytics
+- 🌐 **Web Development** for ASUS Campaign Microsites
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobadepradeep&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)
+
+---
+
+## 🎯 Currently Looking For
+
+I’m actively seeking opportunities in:
+
+- ✅ Digital Analytics
+- ✅ Marketing Data Strategy
+- ✅ Web Analytics Consulting
+- ✅ Martech Operations
+
+Open to **remote** or **hybrid** roles, contract or full-time.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pradeepbobade/)
+- 📧 Email: pradeepbobade9s@gmail.com  
+- 🌐 Portfolio: *(Coming Soon – Ask for Samples)*  
+- 📎 Dashboards & Use Cases: Available on request
+
+---
+
+> *“I believe in storytelling through data — turning events into impact, dashboards into direction.”*
